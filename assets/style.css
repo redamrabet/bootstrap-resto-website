@@ -1,0 +1,40 @@
+.jumbotron {
+  background-image: url("img/header.jpg");
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px black;
+}
+
+a {
+  color: black;
+}
+
+footer {
+  text-align: center;
+}
+
+.trouver{
+  margin-left: 10%;
+  margin-bottom: 27%;
+}
+
+.gallery {
+  margin-left: 10%;
+  margin-bottom: 10%;
+}
+
+.contact {
+  margin-left: 10%;
+  margin-bottom: 18%;
+}
+
+.pizza {
+  margin-left: 10%;
+  margin-bottom: 10%;
+}
+
+
+h6 {
+  text-align: center;
+  font-size: 110%;
+}

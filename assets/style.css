@@ -1,14 +1,26 @@
 .jumbotron {
-  background-image: url("img/header.jpg");
+  background-image: linear-gradient(135deg, rgba(50, 300, 219,0.5) 0%,rgba(243, 65, 65, 0.4) 100%),  url("img/header.jpg");
   color: white;
   text-align: center;
-  text-shadow: 1px 1px black;
   border-radius: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 .comment {
+  margin-bottom: 50px;
   font-family: 'Satisfy', cursive;
-  font-size: 20px;
+  font-size: 30px;
+  width: 600px;
+  text-align: center;
+  margin: auto;
+  text-shadow: 2px 2px black;
+
+
+}
+.btn {
+  margin-top: 50px;
 }
 
 a {
@@ -48,6 +60,7 @@ h1 {
   font-size: 55px;
   text-align: center;
   font-family: 'Lobster', cursive;
+  text-shadow: 2px 2px black;
 }
 
 h6 {
@@ -59,6 +72,14 @@ h6 {
 
 #btnContactUs{
   background-color: #DB8C44;
+}
+
+#BigTime{
+  text-align: center;
+  margin-bottom: 50px;
+border:1px solid black;
+border-width: medium;
+border-radius: 10px;
 }
 
 

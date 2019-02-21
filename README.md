@@ -9,28 +9,14 @@ Titre: Bootstrap-Resto-Website
 
 
 * Projet:
-Pour ce project, je devais crée une site vitrine
-Nous avons 4 jours.
+Pour ce project, je devais crée une site vitrine pour une chaine de restaurants.
 
-[Project](https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Restaurant_Bootstrap).
 
-* Contenu:
-	* Header contenant un logo qui s'anime ainsi qu'une image de fond avec une couleur noire transparente. Contient également une barre de navigation interactive.
+* Contenu
 
-	* Contient ensuite quatre sections: 
-		1. Section de présentation du projet
-		2. Section de présentation des membres de l'équipe
-		3. Section d'affichage des évènements prévus
-		4. Section contenant une forme permettant de contacter l'équipe
-
-* Aperçu du site:
-	* [Cliquez ici!](https://fesouille.github.io/Project-Main-Eventer/)
-
-* Quelques images d'illustrations:
-![Capture d'écran: Header](images/header-screenshot.png)
-![Capture d'écran: Header](images/presentation-screenshot.png)
+[Consigne](https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Restaurant_Bootstrap)
 
 
 * Progression: 
-	* 17 janvier 2019: début projet
-	* 23 janvier 2019: fin projet
+	* 18 février 2019: début projet
+	* 21 février 2019: fin projet

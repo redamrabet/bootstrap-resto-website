@@ -20,7 +20,7 @@
 time()
 
 
-if (new Date().getHours() < 18 && new Date().getHours() > 7 && new Date() !== 0, 6) {
+if (new Date().getHours() < 18 && new Date().getHours() > 7 && new Date() !== 0,6) {
   document.getElementById("openclose").innerHTML = "So the restaurant is" + " " + "OPEN";
 }
 else {

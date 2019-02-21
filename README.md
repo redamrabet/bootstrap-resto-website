@@ -13,6 +13,12 @@ Pour ce project, je devais crée une site vitrine pour une chaine de restaurants
 
 
 
+
+* Aperçu du site:
+	* [Cliquez ici!](https://redamrabet.github.io/bootstrap-resto-website/)
+	
+	
+
 * Contenu: 
 	* [Consigne](https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Restaurant_Bootstrap)
 

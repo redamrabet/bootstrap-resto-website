@@ -12,9 +12,10 @@ Titre: Bootstrap-Resto-Website
 Pour ce project, je devais crée une site vitrine pour une chaine de restaurants.
 
 
-* Contenu
 
-[Consigne](https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Restaurant_Bootstrap)
+* Contenu: 
+	* [Consigne](https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Restaurant_Bootstrap)
+
 
 
 * Progression: 
